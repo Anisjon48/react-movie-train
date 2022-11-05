@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anisjon48/react-movie-train/static/css/main.0cf19597.css",
+    "main.js": "/Anisjon48/react-movie-train/static/js/main.0ffd63c9.js",
+    "index.html": "/Anisjon48/react-movie-train/index.html",
+    "main.0cf19597.css.map": "/Anisjon48/react-movie-train/static/css/main.0cf19597.css.map",
+    "main.0ffd63c9.js.map": "/Anisjon48/react-movie-train/static/js/main.0ffd63c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf19597.css",
+    "static/js/main.0ffd63c9.js"
+  ]
+}
